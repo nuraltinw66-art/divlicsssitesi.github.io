@@ -1,0 +1,114 @@
+.navbar{
+    height: 100px;
+    background-color:#1d1d1f;
+    border-radius: 20px 5px;
+}
+.navbar img{
+    height: 100px;
+    margin-left: 40px;
+    float: left;
+}
+.navbar h1{
+    margin-top: 45px;
+    margin-right: 80px;
+    color: white;
+    font-family: Outfit;
+    float: left;
+}
+.navbar ul li {
+    margin-left: 15px;
+    list-style-type: none;
+   display: inline-block;
+   padding: 55px;
+  margin-top: -4px;
+  
+}
+.navbar ul li a{
+    font-family: Oswald;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+.navbar ul li a:hover{
+    color: cornflowerblue;
+}
+
+.article{
+    height: 500px;
+    width: 1030px;
+    background-color:#17161c ;
+    margin: 10px 0;
+    float: left;
+}
+.article h2{
+    margin-top: 30px;
+    margin-left: 30px;
+    color: white;
+    font-family: Oswald;
+}
+
+.isim td a{
+    text-decoration: none;
+    color: white;
+    font-family: Oswald;
+    margin-left: 50px;
+    text-align: center;
+}
+.sidebar{
+ min-height: 500px;
+ width: 290px;
+ background-color: #1d1d1f ;
+ margin-left: 10px;
+ border-radius: 5px 20px;
+ float: right;
+margin-top: 10px;
+
+
+}
+.sidebar h2{
+    color: white;
+    font-family: Oswald;
+    margin-left: 30px;
+}
+.sidebar ul li{
+    list-style-type: none;
+    padding: 10px;
+    margin-right: 10px;
+}
+.sidebar ul li a{
+    text-decoration: none;
+    font-family: oswald;
+    color: white;
+    font-size: 18px;
+}
+.sidebar ul li a:hover{
+    color: cornflowerblue;
+}
+.icerik{
+    clear: both;
+    height: 450px;
+    background-color:#17161c ;
+    
+}
+.icerik h1{
+    color: white;
+    font-family: oswald;
+    margin-left: 30px;
+    padding-top: 10px;
+}
+.isim2 td{
+   
+}
+
+.footer{
+    min-height: 100px;
+    background-color: #1a1924;
+    margin-top: 10px;
+}
+.footer p{
+    padding-top: 40px;
+    color: white;
+    font-family: Oswald;
+    font-size: 15px;
+    
+}
